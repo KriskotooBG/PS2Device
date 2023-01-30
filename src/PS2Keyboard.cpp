@@ -4,3 +4,14 @@
  * Author: Kris G.
  * 
 */
+
+
+
+
+
+#include "PS2Keyboard.h"
+
+
+PS2Keyboard::PS2Keyboard(int dataPin, int clockPin){
+	
+}
